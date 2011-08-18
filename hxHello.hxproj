@@ -37,8 +37,8 @@
   <!-- Assets to embed into the output SWF -->
   <library>
     <asset path="resources\castlewall shadows tileset.bmp" update="G:\Downloads\T_castlewall\castlewall shadows tileset.bmp" />
-    <asset path="castlewall tileset.bmp" update="G:\Downloads\T_castlewall\castlewall tileset.bmp" />
     <asset path="resources\castlewall colision mask tileset.bmp" update="G:\Downloads\T_castlewall\castlewall colision mask tileset.bmp" />
+    <asset path="resources\castlewall tileset.bmp" update="G:\Downloads\T_castlewall\castlewall tileset.bmp" />
   </library>
   <!-- Paths to exclude from the Project Explorer tree -->
   <hiddenPaths>
