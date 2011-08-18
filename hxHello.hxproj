@@ -16,6 +16,7 @@
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
     <class path="src" />
+    <class path="resources" />
   </classpaths>
   <!-- Build options -->
   <build>
@@ -35,7 +36,9 @@
   </compileTargets>
   <!-- Assets to embed into the output SWF -->
   <library>
-    <!-- example: <asset path="..." id="..." update="..." glyphs="..." mode="..." place="..." sharepoint="..." /> -->
+    <asset path="resources\castlewall shadows tileset.bmp" update="G:\Downloads\T_castlewall\castlewall shadows tileset.bmp" />
+    <asset path="castlewall tileset.bmp" update="G:\Downloads\T_castlewall\castlewall tileset.bmp" />
+    <asset path="resources\castlewall colision mask tileset.bmp" update="G:\Downloads\T_castlewall\castlewall colision mask tileset.bmp" />
   </library>
   <!-- Paths to exclude from the Project Explorer tree -->
   <hiddenPaths>
